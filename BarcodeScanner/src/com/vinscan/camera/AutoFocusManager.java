@@ -31,7 +31,7 @@ import com.vinscan.common.executor.AsyncTaskExecInterface;
 import com.vinscan.common.executor.AsyncTaskExecManager;
 
 final class AutoFocusManager implements Camera.AutoFocusCallback {
-//nagesh
+//Satish
   private static final String TAG = AutoFocusManager.class.getSimpleName();
 
   private static final long AUTO_FOCUS_INTERVAL_MS = 2000L;
